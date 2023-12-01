@@ -1,4 +1,4 @@
-# Proj02_Prev_Eficiencia_ExtInc
+# Proj2_Prev_Eficiencia_ExtInc
 Projeto da Formação Cientista de Dados da data Science Academy
 
 O teste hidrostático extintor é um procedimento estabelecido pelas normas da ABNT NBR 12962/2016, que determinam que todos os extintores devem ser testados a cada cinco anos, com a finalidade de identificar eventuais vazamentos, além de também verificar a resistência do material do extintor.
